@@ -20,9 +20,11 @@ function App() {
     <JssProvider jss={jss}>
       <BrowserRouter>
         <TilesContextProvider>
-          <div className={classes.main}>
-            <h1 className={classes.title}>Keno</h1>
-            <MainBoard/>    
+          <div className={classes.body}>
+            <div className={classes.main}>
+              <h1 className={classes.title}>Keno</h1>
+              <MainBoard/>    
+            </div>
           </div>
         </TilesContextProvider>
       </BrowserRouter>

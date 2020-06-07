@@ -2,6 +2,14 @@ import { createUseStyles } from "react-jss";
 
 
 export const useStyles = createUseStyles({
+  body : {
+    margin: "0px",
+    padding: "0px",
+    boxSizing: "border-box",
+    fontFamily: "Arial, Helvetica, sans-serif"
+  
+  },
+
   main :{
     display: "flex",
     flexDirection: "column",
@@ -65,8 +73,8 @@ export const useStyles = createUseStyles({
     alignItems: "center",
     justifyContent: "center",
 
-    minWidth: "45px",
-    minHeight: "40px",
+    minWidth: "41px",
+    minHeight: "36px",
     margin: "6px",
     border: "2px solid black",
     backgroundColor: "green",

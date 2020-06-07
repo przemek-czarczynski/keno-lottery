@@ -30,7 +30,7 @@ const Tile = ({id}) => {
   return (  
       <>
         {(id<40)? <div className={styles} key={id} onClick={()=>handleClick(id)}>{id+1}</div> :
-        <div className={styles2} key={id} onClick={()=>handleClick(id)}><p>{id+1}</p></div>}
+        <div className={styles2} key={id} onClick={()=>handleClick(id)}>{id+1}</div>}
       </>
   );
 }
