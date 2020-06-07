@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keno-lottery/static/css/main.b8ee11be.chunk.css",
+    "main.js": "/keno-lottery/static/js/main.b43ec4ba.chunk.js",
+    "main.js.map": "/keno-lottery/static/js/main.b43ec4ba.chunk.js.map",
+    "runtime-main.js": "/keno-lottery/static/js/runtime-main.69fa63e5.js",
+    "runtime-main.js.map": "/keno-lottery/static/js/runtime-main.69fa63e5.js.map",
+    "static/js/2.7b14daae.chunk.js": "/keno-lottery/static/js/2.7b14daae.chunk.js",
+    "static/js/2.7b14daae.chunk.js.map": "/keno-lottery/static/js/2.7b14daae.chunk.js.map",
+    "index.html": "/keno-lottery/index.html",
+    "precache-manifest.27771d5aa463343fb30eb6e82bd01f89.js": "/keno-lottery/precache-manifest.27771d5aa463343fb30eb6e82bd01f89.js",
+    "service-worker.js": "/keno-lottery/service-worker.js",
+    "static/css/main.b8ee11be.chunk.css.map": "/keno-lottery/static/css/main.b8ee11be.chunk.css.map",
+    "static/js/2.7b14daae.chunk.js.LICENSE.txt": "/keno-lottery/static/js/2.7b14daae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69fa63e5.js",
+    "static/js/2.7b14daae.chunk.js",
+    "static/css/main.b8ee11be.chunk.css",
+    "static/js/main.b43ec4ba.chunk.js"
+  ]
+}
