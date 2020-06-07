@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/keno-lottery/precache-manifest.cae0ce99317db3f93d5a1c19e7007e1e.js"
+  "/keno-lottery/precache-manifest.6d613fe6bfc079a733ec3826359a0e45.js"
 );
 
 self.addEventListener('message', (event) => {

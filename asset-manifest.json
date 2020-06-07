@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/keno-lottery/static/js/main.d2e3412a.chunk.js",
-    "main.js.map": "/keno-lottery/static/js/main.d2e3412a.chunk.js.map",
+    "main.css": "/keno-lottery/static/css/main.47dd6611.chunk.css",
+    "main.js": "/keno-lottery/static/js/main.f21012d7.chunk.js",
+    "main.js.map": "/keno-lottery/static/js/main.f21012d7.chunk.js.map",
     "runtime-main.js": "/keno-lottery/static/js/runtime-main.69fa63e5.js",
     "runtime-main.js.map": "/keno-lottery/static/js/runtime-main.69fa63e5.js.map",
-    "static/js/2.4272db1c.chunk.js": "/keno-lottery/static/js/2.4272db1c.chunk.js",
-    "static/js/2.4272db1c.chunk.js.map": "/keno-lottery/static/js/2.4272db1c.chunk.js.map",
+    "static/js/2.7b14daae.chunk.js": "/keno-lottery/static/js/2.7b14daae.chunk.js",
+    "static/js/2.7b14daae.chunk.js.map": "/keno-lottery/static/js/2.7b14daae.chunk.js.map",
     "index.html": "/keno-lottery/index.html",
-    "precache-manifest.cae0ce99317db3f93d5a1c19e7007e1e.js": "/keno-lottery/precache-manifest.cae0ce99317db3f93d5a1c19e7007e1e.js",
+    "precache-manifest.6d613fe6bfc079a733ec3826359a0e45.js": "/keno-lottery/precache-manifest.6d613fe6bfc079a733ec3826359a0e45.js",
     "service-worker.js": "/keno-lottery/service-worker.js",
-    "static/js/2.4272db1c.chunk.js.LICENSE.txt": "/keno-lottery/static/js/2.4272db1c.chunk.js.LICENSE.txt"
+    "static/css/main.47dd6611.chunk.css.map": "/keno-lottery/static/css/main.47dd6611.chunk.css.map",
+    "static/js/2.7b14daae.chunk.js.LICENSE.txt": "/keno-lottery/static/js/2.7b14daae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69fa63e5.js",
-    "static/js/2.4272db1c.chunk.js",
-    "static/js/main.d2e3412a.chunk.js"
+    "static/js/2.7b14daae.chunk.js",
+    "static/css/main.47dd6611.chunk.css",
+    "static/js/main.f21012d7.chunk.js"
   ]
 }
