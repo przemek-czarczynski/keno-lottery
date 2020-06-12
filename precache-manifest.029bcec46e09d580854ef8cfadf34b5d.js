@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "159a6a4399ecd6343fac0a920dcd3715",
+    "revision": "829e0d9a3db99cb0b3d9b6f4f3fcf1ea",
     "url": "/keno-lottery/index.html"
   },
   {
-    "revision": "bfeb1798c5e1201e04ca",
+    "revision": "bb273329d0f5a498f7ad",
     "url": "/keno-lottery/static/css/main.47dd6611.chunk.css"
   },
   {
-    "revision": "5a51a5fda6ad641dcdc4",
-    "url": "/keno-lottery/static/js/2.7b14daae.chunk.js"
+    "revision": "c1c0a4bbb4fc34fafb22",
+    "url": "/keno-lottery/static/js/2.cbd5669f.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/keno-lottery/static/js/2.7b14daae.chunk.js.LICENSE.txt"
+    "url": "/keno-lottery/static/js/2.cbd5669f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfeb1798c5e1201e04ca",
-    "url": "/keno-lottery/static/js/main.f21012d7.chunk.js"
+    "revision": "bb273329d0f5a498f7ad",
+    "url": "/keno-lottery/static/js/main.e6b6ff39.chunk.js"
   },
   {
     "revision": "fdb86957bfa01c62d24b",
