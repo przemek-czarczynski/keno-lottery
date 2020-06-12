@@ -14,6 +14,7 @@ const PlaceBet = ()=> {
 
     if (allSelected === 5 && stakeValue > 0) {
       alert(`CONGRATULATIONS!!! \n\nYou have successfully placed a bet on Keno Lottery`)
+      setState(state=>({...state, startDraw: true}));
       clearPanel()
     }
     else {

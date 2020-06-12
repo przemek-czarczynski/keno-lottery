@@ -3,6 +3,9 @@ import { createUseStyles } from "react-jss";
 
 export const useStyles = createUseStyles({
   body : {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
     margin: "0px",
     padding: "0px",
     boxSizing: "border-box",
@@ -17,6 +20,12 @@ export const useStyles = createUseStyles({
     justifyContent: "center",
 
   },
+  
+  drawPanel:{
+    minWidth: "100px",
+    border: "1px solid black"
+  },
+
   board: {
     display: "flex",
     flexWrap: "wrap",
@@ -176,6 +185,18 @@ export const useStyles = createUseStyles({
     fontSize: "12px",
     cursor: "pointer"
   },
-
+  bila:{
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    height: "40px",
+    width: "40px",
+    border: "1px solid black",
+    borderRadius: "50px",
+    transition: "1s linear",
+    backgroundColor: "darkgreen",
+    color: "white",
+    fontWeight: "bold"
+  }
 
 });

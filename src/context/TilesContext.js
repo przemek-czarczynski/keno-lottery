@@ -16,7 +16,8 @@ const TilesContextProvider = (props)=>{
     stakeInputValue:0,
     stakeValue: 0,
     allSelected : 0,
-    completed : false
+    completed : false,
+    startDraw : false
   });
 
   return (

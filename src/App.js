@@ -2,6 +2,7 @@ import React from 'react';
 import {BrowserRouter} from 'react-router-dom';
 
 import MainBoard from './components/MainBoard';
+import DrawPanel from './components/DrawPanel';
 import {useStyles} from './styles/styles';
 
 import {JssProvider} from 'react-jss'
@@ -25,6 +26,7 @@ function App() {
               <h1 className={classes.title}>Keno</h1>
               <MainBoard/>    
             </div>
+            <DrawPanel/>
           </div>
         </TilesContextProvider>
       </BrowserRouter>
